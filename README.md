@@ -1,50 +1,110 @@
 
 <div align="center">
-
-# Hey, I'm Alan 👋
-
-### CSE Student | AI/ML Developer | Space Enthusiast 🚀
-
-Building projects at the intersection of
-**Artificial Intelligence, Mathematics & Aerospace.**
-
-<img src="YOUR_BANNER_IMAGE_URL" width="100%" />
-
+  <img src="./space-banner.jpg" width="100%" alt="NASA Hubble image of the Carina Nebula" />
 </div>
+
+<h1 align="center">Hey, I'm Alan 👋</h1>
+
+<h3 align="center">
+  CSE Student | AI/ML Developer | Space Enthusiast 🚀
+</h3>
+
+<p align="center">
+  Exploring the intersection of Artificial Intelligence, Mathematics, and Aerospace.
+  <br />
+  Building projects, learning new technologies, and turning ideas into reality.
+</p>
 
 ---
 
-### 🧠 About Me
+## 👨‍💻 About Me
 
 - 🎓 Computer Science Engineering student
-- 🤖 Exploring AI, Machine Learning and Deep Learning
-- 🪐 Interested in space technology and aerospace
-- 🔬 Working on biomedical AI and exoplanet detection
-- 💻 Learning by building real-world projects
-
-### 🛠️ Technologies
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### 🚀 Featured Projects
-
-- 🪐 AI-based Exoplanet Detection
-- 🧬 Parkinson's Disease Analysis
-- 🛰️ Aerospace Simulation Projects
-
-### 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 🚀 Passionate about space exploration and aerospace technology
+- 📊 Enjoy solving mathematical and computational problems
+- 🔬 Building projects that combine AI, science, and engineering
+- 🌱 Always learning and exploring new technologies
 
 ---
 
-<div align="center">
+## 🛠️ Technologies & Tools
 
-**Build • Learn • Experiment • Repeat**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,git,github,vscode" alt="Technologies and tools" />
+</p>
 
-</div>
+**Areas of Interest**
+
+- Artificial Intelligence and Machine Learning
+- Data Science and Bioinformatics
+- Deep Learning and Computer Vision
+- Space Science and Aerospace Engineering
+- Scientific Computing and Simulation
+
+---
+
+## 🚀 Featured Projects
+
+### 🌌 AI-Based Exoplanet Detection
+Exploring machine learning techniques to identify potential exoplanets from noisy astronomical light-curve data.
+
+**Focus:** Time-series analysis, transit detection, and candidate classification.
+
+### 🧬 Parkinson's Disease Analysis
+Developing a project to analyze Parkinson's disease using biomedical data and machine learning techniques.
+
+**Focus:** MRI data exploration, data analysis, and potential disease classification.
+
+### 🛰️ Aerospace Simulation Projects
+Exploring computational methods and simulations for aerospace systems.
+
+**Focus:** Orbital mechanics, structural stability, and sensitivity analysis.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=loboalan019-hub&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=loboalan019-hub&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="Most used programming languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=loboalan019-hub&theme=tokyonight&hide_border=true"
+    alt="GitHub contribution streak"
+  />
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- Strengthen my programming and problem-solving skills
+- Build practical AI/ML projects
+- Explore research opportunities in space science
+- Contribute to open-source projects
+- Develop projects that combine computer science with scientific research
+
+---
+
+## 🌠 My Motto
+
+<p align="center">
+  <b>Build • Learn • Experiment • Repeat</b>
+  <br />
+  <i>Curiosity drives innovation.</i>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! ⭐
+</p>
