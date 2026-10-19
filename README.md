@@ -15,6 +15,12 @@
   Building projects, learning new technologies, and turning ideas into reality.
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/alan-lobo-3b0a21375/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -47,16 +53,19 @@
 ## 🚀 Featured Projects
 
 ### 🌌 AI-Based Exoplanet Detection
+
 Exploring machine learning techniques to identify potential exoplanets from noisy astronomical light-curve data.
 
 **Focus:** Time-series analysis, transit detection, and candidate classification.
 
 ### 🧬 Parkinson's Disease Analysis
+
 Developing a project to analyze Parkinson's disease using biomedical data and machine learning techniques.
 
 **Focus:** MRI data exploration, data analysis, and potential disease classification.
 
 ### 🛰️ Aerospace Simulation Projects
+
 Exploring computational methods and simulations for aerospace systems.
 
 **Focus:** Orbital mechanics, structural stability, and sensitivity analysis.
@@ -108,3 +117,4 @@ Exploring computational methods and simulations for aerospace systems.
 <p align="center">
   Thanks for visiting my profile! ⭐
 </p>
+
